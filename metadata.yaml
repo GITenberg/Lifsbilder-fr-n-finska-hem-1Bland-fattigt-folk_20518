@@ -1,0 +1,45 @@
+_repo: Lifsbilder-fr-n-finska-hem-1Bland-fattigt-folk_20518
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hertzberg, Rafaël
+    aliases:
+    - Hertzberg, R. (Rafaël)
+    - Hertzberg, Rafael
+    birthdate: 1845
+    deathdate: 1896
+    gutenberg_agent_id: '9351'
+    url: http://www.gutenberg.org/2009/agents/9351
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Canth, Minna
+    aliases:
+    - Wilja
+    - Canth, Ulrika Vilhelmina Johnsson
+    - Johnsson, Ulrika Vilhelmina
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '3553'
+    url: http://www.gutenberg.org/2009/agents/3553
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Minna_Canth
+    - http://en.wikipedia.org/wiki/Minna_Canth
+description: ''
+gutenberg_issued: '2007-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20518'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: 'Lifsbilder från finska hem 1
+
+  Bland fattigt folk'
+url: http://www.gutenberg.org/ebooks/20518
